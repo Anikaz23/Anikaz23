@@ -19,7 +19,7 @@ Here's a view of what's there to see:
  - The first! Saw some counter extensions on chrome that didn't look good so I decided to make my own and dial it up to a 11.
  - It's not rocket science but it taught me a lot about the development process.
 
- **BuddyIn (INP)**
+ **BuddyIn (Currently INP)**
  - Applying to jobs is hard + I'm good at coding + Most tools out there are either a cash grab or AI spam bots = A *quality-over-quantity* based application tool
 
 

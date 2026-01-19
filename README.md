@@ -4,7 +4,7 @@ This is my space for building things.
 
 What kind of things you ask?  Anything useful, really!
 
-What's your philosophy? It looks nice and modern, is useful and most importantly, as privacy-first as possible.
+What's your philosophy when building? It should look nice and modern, be useful and most importantly, be as privacy-first as possible.
 
 My main stack, for now:
 

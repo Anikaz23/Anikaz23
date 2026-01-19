@@ -20,7 +20,7 @@ Here's a view of what's there to see:
  - It's not rocket science but it taught me a lot about the development process.
  - [check it out here](https://chromewebstore.google.com/detail/tallyx/allbbmgnnlnnefodaammcefaoiogfenp)
 
- **BuddyIn (Currently INP)**
+ **BuddyIn (Currently In Progress)**
  - Applying to jobs is hard + I'm good at coding + Most tools out there are either a cash grab or AI spam bots = A *quality-over-quantity* based application tool
 
 

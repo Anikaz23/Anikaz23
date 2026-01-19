@@ -15,7 +15,7 @@ My main stack, for now:
 
 Here's a view of what's there to see:
 
-**TallyX**
+<img src="icon.png" width="24"/> **TallyX**
  - The first! Saw some counter extensions on chrome that didn't look good so I decided to make my own and dial it up to a 11.
  - It's not rocket science but it taught me a lot about the development process.
 

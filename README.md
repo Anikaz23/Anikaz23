@@ -55,6 +55,6 @@ This is my space for building things.
  - [check it out here](https://chromewebstore.google.com/detail/tallyx/allbbmgnnlnnefodaammcefaoiogfenp)
 
  **BuddyIn (Currently In Progress)**
- - Applying to jobs is hard + I'm good at coding + Most available tools are AI spam bots = A *quality-over-quantity* based application tool
+ - Applying to jobs is hard + I'm good at coding + Most available tools are AI spam bots = A *quality-over-quantity* approach based application tool
 
 

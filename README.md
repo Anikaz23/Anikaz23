@@ -4,6 +4,8 @@ This is my space for building things.
 
 What kind of things you ask?  Anything useful, really!
 
+What's your philosophy? It looks nice and modern, is useful and most importantly, as privacy-first as possible.
+
 My main stack, for now:
 
  - Backend: <img src="https://cdn.simpleicons.org/javascript" width="24" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" />

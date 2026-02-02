@@ -1,8 +1,8 @@
 # Howdy! I'm Anikait.
 
 This is my space for building things.  
-**What kind of things?** B2C and B2B tools to improve productivity or provide cheaper services.<br>
-**What's your Engineering Philosophy?** Be useful, be fair, and making it a look a little nice doesn't hurt.
+**What kind of things?** &nbsp; B2C and B2B tools to improve productivity or provide cheaper services.<br>
+**What's your Engineering Philosophy?** &nbsp;  Be useful, be fair, and making it a look a little nice doesn't hurt.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

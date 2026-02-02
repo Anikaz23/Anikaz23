@@ -24,7 +24,7 @@ This is my space for building things.
 And I am keeping an eye out for a little birdie...<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" height="24">
 
 ## Current Projects
- - 🔼 [TallyX](https://chromewebstore.google.com/detail/tallyx/allbbmgnnlnnefodaammcefaoiogfenp) - My Foray into SaaS where I over-designed a simple problem.
+ - 🔼 [TallyX](https://chromewebstore.google.com/detail/tallyx/allbbmgnnlnnefodaammcefaoiogfenp) - My first foray into SaaS where I over-designed a simple problem.
  - 💼 [BuddyIn](https://www.github.com/Anikaz23/BuddyIn) - A quality-over-quantity approach to job applications powered by AI (doesn't spam apply unlike some apps 👀)
  - 🧾 [Any2Invoice](https://www.github.com/Anikaz23/csvtoinvoice) - A simple and afforable invoicing tool for any, and I mean *any*, set-up.
  - 🕊️ [Twitter Digest (for Sandeep Nailwal @ Polygon Foundations)](https://www.github.com/Anikaz23/twitterdigest) - Using 🦞 OpenClaw to automate social media research

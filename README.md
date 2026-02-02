@@ -1,66 +1,34 @@
 # Howdy! I'm Anikait.
 
-This is my space for building things. 
+This is my space for building things.  
+**What kind of things?** B2C and B2B tools to improve productivity or provide cheaper services.<br>
+**What's your Engineering Philosophy?** Be useful, be fair, and making it a look a little nice doesn't hurt.
 
-**What kind of things you ask?**  Anything useful, really!
-
-**What's your philosophy when building?** It should look modern and clean, be useful and most importantly, be as privacy-first as possible.
-
-<h3>Tech stack</h3>
-<hr/>
-
-**Main Stack**
-<table>
-  <tr >
-    <td align="center">
-
-
-![Python](https://img.shields.io/badge/Python-2A1F2D?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2A1F2D?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-2C3E50?style=for-the-badge&logo=react&logoColor=white)
-<br/>
-![Next.js](https://img.shields.io/badge/Next.js-2C3E50?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-2C3E50?style=for-the-badge&logo=vite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-1E2A24?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-<br/>
-![Docker](https://img.shields.io/badge/Docker-1E2A24?style=for-the-badge&logo=docker&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-24272E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2B241E?style=for-the-badge&logo=postgresql&logoColor=white)
-  </tr>
-</table>
-
-**Stacks I know**
-<table>
-  <tr>
-    <td align="center">
-
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-2A1F2D?style=for-the-badge&logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-2C3E50?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-2B241E?style=for-the-badge&logo=oracle&logoColor=white)
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![C](https://img.shields.io/badge/C-2A1F2D?style=for-the-badge&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-2A1F2D?style=for-the-badge&logo=rust&logoColor=white)
 
-  </tr>
-</table>
+**Stacks I am learning and why**
 
- And I am keeping an eye out for a little birdie... <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="24" />
- <hr/>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) - backend done right in industries  
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) - lightweight reactive UIs  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) - enterprise SQL  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) - systems code without footguns
+And I am keeping an eye out for a little birdie...<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" height="24">
 
-<h3>Pursuits</h3>
+## Current Projects
+ - 🔼 [TallyX](https://chromewebstore.google.com/detail/tallyx/allbbmgnnlnnefodaammcefaoiogfenp) - My Foray into SaaS where I over-designed a simple problem.
+ - 💼 [BuddyIn](https://www.github.com/Anikaz23/BuddyIn) - A quality-over-quantity approach to job applications powered by AI (doesn't spam apply unlike some apps 👀)
+ - 🧾 [Any2Invoice](https://www.github.com/Anikaz23/csvtoinvoice) - A simple and afforable invoicing tool for any, and I mean *any*, set-up.
+ - 🕊️ [Twitter Digest (for Sandeep Nailwal @ Polygon Foundations)](https://www.github.com/Anikaz23/twitterdigest) - Using 🦞 OpenClaw to automate social media research
 
-<img src="icon.png" width="36"/> **TallyX**
- - The first! Saw some counter extensions on chrome that didn't look good so I decided to make my own and dial it up to a 11.
- - It's not rocket science but it taught me a lot about the development process.
- - [check it out here](https://chromewebstore.google.com/detail/tallyx/allbbmgnnlnnefodaammcefaoiogfenp)
+## Github Activity
 
- **BuddyIn (INP)**
- - Applying to jobs is hard + I'm good at coding + Most available tools are AI spam bots = A *quality-over-quantity* approach based application tool
-
-**TwitterDigest (Project for Sandeep Nailwal (Polygon Foundation))** 
-- Using the now prodigious OpenClaw to parse and summarize a twitter account every 3 hours on a VPS and send info to a local dashboard anywhere in the world, *fast*.
-
-**Any2Invoice**
-- Leveraging AI to provide affordable Invoice services for any kind of setup.
-
-
+<img src="https://ghchart.rshah.org/Anikaz23">

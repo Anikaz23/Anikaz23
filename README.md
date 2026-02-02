@@ -15,7 +15,7 @@ This is my space for building things.
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![C](https://img.shields.io/badge/C-2A1F2D?style=for-the-badge&logoColor=white)
 
-**V Stacks I am learning and why V**
+### Stacks I am learning and why
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) - backend done right in industries  
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) - lightweight reactive UIs  

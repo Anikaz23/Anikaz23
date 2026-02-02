@@ -15,19 +15,20 @@ This is my space for building things.
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![C](https://img.shields.io/badge/C-2A1F2D?style=for-the-badge&logoColor=white)
 
-### Stacks I have learned and why
+## Current Projects
+ - 🔼 [TallyX](https://chromewebstore.google.com/detail/tallyx/allbbmgnnlnnefodaammcefaoiogfenp) - My first foray into SaaS where I over-designed a simple problem.
+ - 💼 [BuddyIn](https://www.github.com/Anikaz23/BuddyIn) - A quality-over-quantity approach to job applications powered by AI (doesn't spam apply unlike some apps 👀)
+ - 🧾 [Any2Invoice](https://www.github.com/Anikaz23/csvtoinvoice) - A simple and afforable invoicing tool for any, and I mean *any*, set-up.
+ - 🕊️ [Twitter Digest (for Sandeep Nailwal @ Polygon Foundations)](https://www.github.com/Anikaz23/twitterdigest) - Using 🦞 OpenClaw to automate social media research
+
+
+## Stacks I have learned and why
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) - backend done right in industries  
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) - lightweight reactive UIs  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) - enterprise SQL  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) - systems code without footguns <br>
 And I am keeping an eye out for a little birdie...<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" height="24">
-
-## Current Projects
- - 🔼 [TallyX](https://chromewebstore.google.com/detail/tallyx/allbbmgnnlnnefodaammcefaoiogfenp) - My first foray into SaaS where I over-designed a simple problem.
- - 💼 [BuddyIn](https://www.github.com/Anikaz23/BuddyIn) - A quality-over-quantity approach to job applications powered by AI (doesn't spam apply unlike some apps 👀)
- - 🧾 [Any2Invoice](https://www.github.com/Anikaz23/csvtoinvoice) - A simple and afforable invoicing tool for any, and I mean *any*, set-up.
- - 🕊️ [Twitter Digest (for Sandeep Nailwal @ Polygon Foundations)](https://www.github.com/Anikaz23/twitterdigest) - Using 🦞 OpenClaw to automate social media research
 
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikaitkadamb/)

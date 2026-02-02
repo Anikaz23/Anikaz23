@@ -57,7 +57,10 @@ This is my space for building things.
  **BuddyIn (INP)**
  - Applying to jobs is hard + I'm good at coding + Most available tools are AI spam bots = A *quality-over-quantity* approach based application tool
 
-**TwitterDigest (side Project for Sandeep Nailwal (Polygon Foundation))** 
+**TwitterDigest (Project for Sandeep Nailwal (Polygon Foundation))** 
 - Using the now prodigious OpenClaw to parse and summarize a twitter account every 3 hours on a VPS and send info to a local dashboard anywhere in the world, *fast*.
+
+**Any2Invoice**
+- Leveraging AI to provide affordable Invoice services for any kind of setup.
 
 

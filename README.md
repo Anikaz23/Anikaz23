@@ -29,6 +29,6 @@ And I am keeping an eye out for a little birdie...<img src="https://upload.wikim
  - 🧾 [Any2Invoice](https://www.github.com/Anikaz23/csvtoinvoice) - A simple and afforable invoicing tool for any, and I mean *any*, set-up.
  - 🕊️ [Twitter Digest (for Sandeep Nailwal @ Polygon Foundations)](https://www.github.com/Anikaz23/twitterdigest) - Using 🦞 OpenClaw to automate social media research
 
-## Github Activity
-
-<img src="https://ghchart.rshah.org/Anikaz23">
+## Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikaitkadamb/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikaitkadamb@icloud.com)

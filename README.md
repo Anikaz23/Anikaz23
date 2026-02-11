@@ -22,7 +22,7 @@ This is my space for building things.
  - 💼 [BuddyIn](https://www.github.com/Anikaz23/BuddyIn) - A quality-over-quantity approach to job applications powered by AI (doesn't spam apply unlike some apps 👀)
 
 
-## Stacks I have learned and why
+## Stacks I am learning and why 
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) - backend done right in industries  
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) - lightweight reactive UIs  
